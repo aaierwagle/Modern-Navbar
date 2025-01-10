@@ -45,4 +45,3 @@ A responsive and animated navigation bar built with Next.js, TypeScript, and Fra
 ## License
 
 This project is licensed under the MIT License.
-```
